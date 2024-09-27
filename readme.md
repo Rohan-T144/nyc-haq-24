@@ -62,7 +62,7 @@ pip install -r requirements.txt
 
 - `report.ipynb`: Jupyter notebook demonstrating the usage of algorithms and visualizing results.
 - `qchem_algorithms.py`: Contains implementations of all quantum and classical algorithms used in the project.
-- `optimal_resources.ipynb`: Notebook explaining our implementation of our meta-optimization algorithm.
+- `optimal_resources.ipynb`: Notebook explaining our implementation of our meta-optimization algorithm, with examples on NO3 and Cr(III)
 - `qchem_opt.py`: Contains implementations of our meta-optimization algorithm and related plotting.
 - `experiments/`: Directory contains all the WIP and experimental code we created during the hackathon.
 - `figs/`: Contains some figures generated as results from our simulations.
