@@ -1,0 +1,12 @@
+# Core scientific computing packages
+numpy>=1.21.0
+scipy>=1.7.0
+matplotlib>=3.4.0
+
+# Quantum computing packages
+tangelo @ git+https://github.com/goodchemistryco/Tangelo.git@develop
+openfermion>=1.5.0
+pennylane>=0.23.0
+adjustText>=1.2.0
+# For classical benchmarking
+pyscf>=2.0.0
