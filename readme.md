@@ -86,7 +86,7 @@ pip install -r requirements.txt
    jupyter notebook quantum_chemistry_notebook.ipynb
    ```
 
-4. Follow the instructions in the notebook to run simulations and visualize results. --> -->
+4. Follow the instructions in the notebook to run simulations and visualize results. -->
 
 <!-- ## Contributing
 
