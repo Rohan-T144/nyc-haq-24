@@ -91,6 +91,13 @@ pip install -r requirements.txt
 <!-- ## Contributing
 
 Contributions to this project are welcome! Please fork the repository and submit a pull request with your proposed changes. -->
+## Contributors
+- Rohan Timmaraju
+- Yuval Shemla
+- Sanghun Han
+- Sajia Mehrin
+- Brian Hernandez
+- Yonara Anastacio
 
 ## License
 
