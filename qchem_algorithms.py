@@ -229,7 +229,7 @@ class HamiltonianSimulator:
                 **resources,
                 **hab_circuit.counts_n_qubit,
                 "width": hab_circuit.width,
-                "depth": hab_circuit.depth,
+                "depth": hab_circuit.depth(),
             }
 
         print(f"Circuit resources:\n{resources}")
